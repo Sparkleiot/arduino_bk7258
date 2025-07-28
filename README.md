@@ -1,3 +1,1 @@
-# arduino_bk7258
-这是一个基于bk7258开发板为基础的
-你可以通过在Release中下载zip，里面有使用说明等
+This is based on the bk7258 development board. You can download the zip file in the "Release" section, which contains the usage instructions and other information.
